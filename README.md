@@ -1,5 +1,5 @@
 # ds-factory-unit-test
-Source code for paper [Unit testing in Data Science](https://www.data-science-factory.com/) by Data Science Factory
+Source code for paper [Unit testing in Data Science](https://www.data-science-factory.com/post/unit-testing-in-data-science) by Data Science Factory
 
 _______________________________________________________________
 ### Prerequisites
